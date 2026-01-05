@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning for 2nd-year major students
+Machine Learning for 3nd-year major students
